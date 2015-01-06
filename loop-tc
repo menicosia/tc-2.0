@@ -1,0 +1,25 @@
+#!/bin/csh -f
+#
+# Quick shellscript to run tc2 in a loop.
+# Outputs to logfile, partially to make up for the fact that tc
+# ain't so hot when it comes to logging.
+#
+if ($#argv > 1) then
+	echo 'Usage: loop-tc [tc-dir]'
+	exit 1
+endif
+if ($#argv == 1) then
+	set tcdir = $argv[1]
+else
+	set tcdir = '.'
+endif
+
+cd $tcdir
+set logfile = "./tc2.log"
+
+while 1
+	echo -n "New TC2 started at: " >>! $logfile
+	date >> $logfile
+	./tc2 >>& $logfile
+	sleep 3  # Keep from plowing on ahead as fast as possible.
+end

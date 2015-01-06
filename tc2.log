@@ -1,0 +1,682 @@
+New TC2 started at: Mon May 22 11:27:49 PDT 2000
+New TC2 started at: Mon May 22 12:07:38 PDT 2000
+New TC2 started at: Mon May 22 12:14:08 PDT 2000
+New TC2 started at: Mon May 22 12:15:43 PDT 2000
+New TC2 started at: Mon May 22 12:15:56 PDT 2000
+New TC2 started at: Mon May 22 12:18:31 PDT 2000
+New TC2 started at: Mon May 22 12:18:39 PDT 2000
+New TC2 started at: Mon May 22 12:19:21 PDT 2000
+New TC2 started at: Mon May 22 12:19:27 PDT 2000
+New TC2 started at: Mon May 22 12:22:55 PDT 2000
+New TC2 started at: Mon May 22 12:23:02 PDT 2000
+New TC2 started at: Mon May 22 12:27:21 PDT 2000
+[TC2.0] announce: given empty channel.
+New TC2 started at: Mon May 22 12:29:28 PDT 2000
+New TC2 started at: Mon May 22 12:31:58 PDT 2000
+New TC2 started at: Mon May 22 12:32:58 PDT 2000
+New TC2 started at: Mon May 22 12:37:15 PDT 2000
+[TC2.0] announce: given empty channel.
+New TC2 started at: Mon May 22 12:47:52 PDT 2000
+New TC2 started at: Mon May 22 12:51:03 PDT 2000
+New TC2 started at: Mon May 22 12:51:41 PDT 2000
+[TC2.0] announce: given empty channel.
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+free_strfifo_l: WARNING: Losing reference to next!
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Fri Jun  2 10:21:57 PDT 2000
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Fri Jun 30 12:31:37 PDT 2000
+New TC2 started at: Fri Jun 30 12:31:56 PDT 2000
+New TC2 started at: Fri Jun 30 12:32:06 PDT 2000
+New TC2 started at: Fri Jun 30 12:37:58 PDT 2000
+New TC2 started at: Thu Aug 17 10:19:11 PDT 2000
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Sun Sep 17 12:29:08 PDT 2000
+New TC2 started at: Wed Nov  8 10:09:43 PST 2000
+New TC2 started at: Mon Jan  8 12:34:54 PST 2001
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Tue Aug 28 00:31:11 PDT 2001
+New TC2 started at: Wed Sep  5 20:37:49 PDT 2001
+New TC2 started at: Wed Sep  5 20:38:47 PDT 2001
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Wed Sep  5 20:39:42 PDT 2001
+New TC2 started at: Thu Sep  6 10:03:26 PDT 2001
+read_sock(): Error in read: Connection reset by peer
+New TC2 started at: Sun Sep 30 23:12:46 PDT 2001
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Fri Nov  9 14:59:54 PST 2001
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Wed Nov 14 17:31:16 PST 2001
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Sun Jun 29 15:05:25 PDT 2003
+New TC2 started at: Sat Aug  2 00:31:35 PDT 2003
+New TC2 started at: Mon Sep 15 21:00:15 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Mon Sep 15 21:18:05 PDT 2003
+New TC2 started at: Thu Sep 18 12:09:53 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Thu Sep 18 14:13:48 PDT 2003
+New TC2 started at: Thu Sep 18 21:37:16 PDT 2003
+New TC2 started at: Sun Sep 28 13:16:40 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: New TC2 started at: Sun Sep 28 16:05:51 PDT 2003
+New TC2 started at: Mon Sep 29 19:41:27 PDT 2003
+New TC2 started at: Mon Sep 29 20:19:44 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Mon Sep 29 21:55:32 PDT 2003
+New TC2 started at: Thu Oct  2 20:23:24 PDT 2003
+New TC2 started at: Thu Oct  2 21:06:37 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Thu Oct  2 21:16:32 PDT 2003
+New TC2 started at: Mon Oct  6 00:16:43 PDT 2003
+New TC2 started at: Mon Oct  6 00:16:45 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Sun Oct 19 14:04:19 PDT 2003
+New TC2 started at: Sun Oct 19 14:04:19 PDT 2003
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Sun Oct 19 15:25:37 PDT 2003
+New TC2 started at: Sun Oct 19 15:34:55 PDT 2003
+New TC2 started at: Fri Nov 21 21:03:32 PST 2003
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Thu Dec 18 03:03:02 PST 2003
+New TC2 started at: Sun Feb 15 16:16:33 PST 2004
+New TC2 started at: Sat Mar  6 23:28:38 PST 2004
+New TC2 started at: Fri Apr  9 10:33:33 PDT 2004
+New TC2 started at: Fri May 28 10:46:26 PDT 2004
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Fri Jan 28 19:28:42 PST 2005
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Mon Jul 11 00:55:45 PDT 2005
+New TC2 started at: Thu Jul 14 13:46:24 PDT 2005
+New TC2 started at: Sun Dec  4 18:08:09 PST 2005
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Sun Dec  4 20:20:55 PST 2005
+New TC2 started at: Sat Dec 31 09:01:28 PST 2005
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Sat Dec 31 13:19:32 PST 2005
+New TC2 started at: Thu Jul 20 01:42:09 PDT 2006
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Thu Jul 20 19:27:42 PDT 2006
+New TC2 started at: Mon Aug 28 23:35:23 PDT 2006
+New TC2 started at: Mon Aug 28 23:54:25 PDT 2006
+New TC2 started at: Fri Sep 15 19:47:34 PDT 2006
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Sat Sep 16 08:10:17 PDT 2006
+New TC2 started at: Fri Oct 20 20:42:04 PDT 2006
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Fri Oct 20 20:53:45 PDT 2006
+New TC2 started at: Mon Nov  6 10:34:20 PST 2006
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Tue Nov  7 14:15:39 PST 2006
+New TC2 started at: Wed Nov  8 13:55:37 PST 2006
+New TC2 started at: Wed Dec 20 11:06:34 PST 2006
+New TC2 started at: Sat Mar 24 13:23:25 PST 2007
+New TC2 started at: Sat Mar 24 13:33:50 PST 2007
+New TC2 started at: Sat Mar 24 13:47:32 PDT 2007
+New TC2 started at: Mon Jun  4 22:14:29 PDT 2007
+new_read_sock(): Error binding stream socket: Address already in use
+[TC2.0] new_tcds: listen failed, Socket operation on non-socket.
+New TC2 started at: Mon Jun  4 23:16:04 PDT 2007
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Wed Jan 28 23:24:36 PST 2009
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Mon Mar 16 01:11:00 PDT 2009
+New TC2 started at: Mon Mar 16 01:42:32 PDT 2009
+New TC2 started at: Sun Aug 30 16:25:07 PDT 2009
+New TC2 started at: Mon Dec  7 08:58:33 PST 2009
+read_sock(): Error in read: Operation timed out
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Mon Feb 15 09:57:37 PST 2010
+New TC2 started at: Mon Aug 15 08:49:54 PDT 2011
+New TC2 started at: Wed Sep 14 11:19:05 PDT 2011
+New TC2 started at: Tue Apr 10 16:26:03 PDT 2012
+read_sock(): Error in read: Connection reset by peer
+read_sock(): Error in read: Connection reset by peer
+read_sock(): Error in read: Connection reset by peer
+flush_sock(): Unable to write, pushing back.
+flush_sock(): Error in write: Broken pipe
+New TC2 started at: Mon Jul 16 20:42:43 PDT 2012
+New TC2 started at: Sat Dec 29 11:17:30 PST 2012

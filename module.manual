@@ -1,0 +1,11 @@
+Notes about modules:
+
+1] Module functions are inserted into the general Q by a module hook function.
+   These functions must be noted in defaults.h, under MOD_Q_FCNS. Also be sure
+   to update MOD_Q_COUNT to reflect the number of functions!
+2] Module functions ALL accept two arguments:
+   struct tcds *t: A TC data structure. Contains all data related to a TC.
+   struct event *e: The event that generated the fcn call.
+3] Events contain a union a, which has the argument(s) for the module fcn.
+   This union is defined in the event structure definition in events.h. It
+   must be kept up to date if you want to pass new types of arguments.
